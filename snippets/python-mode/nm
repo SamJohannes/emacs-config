@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: py-name-main
+# key: nm
+# --
+if __name__=="__main__":
+   main()

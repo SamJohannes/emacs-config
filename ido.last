@@ -1,0 +1,333 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/elSamu/Desktop/Post/Code/" . "po-box-associate-ui/")
+ ("/Users/elSamu/Desktop/Post/" . "Code/")
+ ("/Users/elSamu/Code/" . "theHarvester/")
+ ("/Users/elSamu/Desktop/FIT2001/" . "tutorials/")
+ ("/Applications/Emacs.app/Contents/" . "Resources/")
+ ("/Applications/Emacs.app/" . "Contents/")
+ ("/Applications/" . "Emacs.app/")
+ ("/Users/elSamu/Desktop/FIT3143/assignments/" . "assignment2/")
+ ("/Users/elSamu/Desktop/FIT3143/labs/" . "lab5/")
+ ("/Users/elSamu/Desktop/FIT3143/" . "tutorial-solutions/")
+ ("/Users/elSamu/Library/Application Support/" . "Karabiner/")
+ ("/Users/elSamu/Library/" . "Application Support/")
+ ("/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/" . "hello.t/")
+ ("/Users/elSamu/Desktop/MTH3051/assignments/" . "assignment_3/")
+ ("/Users/elSamu/Desktop/MTH3051/" . "assignments/")
+ ("/Users/" . "elSamu/")
+ ("/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/" . "lasso/")
+ ("/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/" . "scala/")
+ ("/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/" . "main/")
+ ("/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/" . "src/")
+ ("/Users/elSamu/Desktop/Convex_Optimisation/" . "sp_group_lasso/")
+ ("/Users/elSamu/Documents/Github/python-admm/" . "group-lasso/")
+ ("/Users/elSamu/Desktop/FIT2002/" . "Tutorials/")
+ ("/Users/elSamu/Desktop/Convex Optimisation/py_lasso/" . "pyadmm/")
+ ("/Users/elSamu/Documents/Github/pyadmm/" . "pyadmm/")
+ ("/Users/elSamu/Documents/Github/" . "python-admm/")
+ ("/Users/elSamu/Desktop/Convex Optimisation/" . "spark_samples/")
+ ("/Users/elSamu/Desktop/Python-3.4.3_SAUCE/" . "Lib/")
+ ("/Users/elSamu/Documents/Notes/FIT1031/" . "lecture_notes_3/")
+ ("/Users/elSamu/Documents/Notes/" . "FIT1031/")
+ ("/Users/elSamu/Documents/" . "Github/")
+ ("/Users/elSamu/Desktop/FIT2014/Assignments/asgn4/" . "problem3/")
+ ("/Users/elSamu/Desktop/clojure-getting-started/src/" . "clojure_getting_started/")
+ ("/Users/elSamu/Desktop/clojure-getting-started/" . "src/")
+ ("/Users/elSamu/Desktop/FIT2014/Assignments/asgn3/" . "problem1/")
+ ("/Users/elSamu/Desktop/helloflask/" . "venv/")
+ ("/usr/local/apache2/" . "htdocs/")
+ ("/Library/WebServer/" . "Documents/")
+ ("/Library/" . "WebServer/")
+ ("/etc/" . "apache2/")
+ ("/usr/local/etc/apache2/" . "2.4/")
+ ("/usr/local/etc/" . "apache2/")
+ ("/usr/local/" . "apache2/")
+ ("/usr/" . "local/")
+ ("/" . "Applications/")
+ ("/Users/elSamu/Desktop/PHS2022/" . "EM2 Write UP/")
+ ("/Users/elSamu/Desktop/FIT2014/Assignments/asgn2/" . "problem3/")
+ ("/Users/elSamu/Desktop/FIT2014/Assignments/" . "asgn4/")
+ ("/Users/elSamu/Desktop/FIT2014/" . "Assignments/")
+ ("/Users/elSamu/" . "Desktop/")
+ ("/Users/elSamu/Downloads/" . "Oxford Handbook of Clinical Medicine, 9E [PDF] [StormRG]/")
+ ("/Users/elSamu/Desktop/clojure-noob/src/" . "clojure_noob/")
+ ("/Users/elSamu/Desktop/clojure-noob/" . "src/")
+ ("/Users/elSamu/Desktop/" . "Post/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/elSamu/Desktop/Post/"
+ "/Users/elSamu/Desktop/Post/QA/"
+ "/Users/elSamu/Desktop/Post/Diary/"
+ "/Users/elSamu/Desktop/"
+ "/Users/elSamu/Desktop/FIT3143/tutorial-solutions/"
+ "/Users/elSamu/Desktop/FIT3143/tutes/"
+ "/Users/elSamu/Code/theHarvester/"
+ "/Users/elSamu/Downloads/"
+ "/Users/elSamu/Desktop/FIT3143/assignments/assignment2/"
+ "/Users/elSamu/Desktop/scripts/"
+ "/Users/elSamu/Desktop/FIT3143/labs/lab5/"
+ "/Users/elSamu/Desktop/MTH3051/assignments/assignment_3/"
+ "/Users/elSamu/Desktop/FIT2001/"
+ "/Users/elSamu/Desktop/MTH3051/assignments/assignment_2/"
+ "/Users/elSamu/Desktop/FIT3143/assignments/assignment1/"
+ "/Users/elSamu/Desktop/mantasano/"
+ "/Users/elSamu/"
+ "/Users/elSamu/.emacs.d/"
+ "/Users/elSamu/Desktop/FIT3143/"
+ "/Users/elSamu/Desktop/FIT3143/labs/lab2/"
+ "/Users/elSamu/Desktop/MTH3051/assignments/assignment_1/"
+ "/Users/elSamu/Library/Application Support/Karabiner/"
+ "/Users/elSamu/Desktop/FIT2001/tutorials/"
+ "/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/hello.t/"
+ "/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/"
+ "/Users/elSamu/Desktop/Convex_Optimisation/matlab_group_lasso/"
+ "/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/bin/"
+ "/Users/elSamu/Desktop/MTH3051/assignment_1/"
+ "/Users/elSamu/Desktop/Convex_Optimisation/py_lasso/"
+ "/Users/elSamu/Downloads/Oxford Handbook of Clinical Medicine, 9E [PDF] [StormRG]/"
+ "/Users/elSamu/Desktop/python-getting-started/"
+ "/Users/elSamu/Documents/SPOJ/prime1/"
+ "/Users/elSamu/Desktop/test/"
+ "/Users/elSamu/Documents/SPOJ/onp/"
+ "/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/"
+ "/Users/elSamu/Desktop/Convex_Optimisation/"
+ "/Users/elSamu/Documents/Github/python-admm/group-lasso/"
+ "/Users/elSamu/output.txt/"
+ "/Users/elSamu/Desktop/Convex_Optimisation/spark_samples/"
+ "/Users/elSamu/Desktop/Scala/"
+ "/Users/elSamu/Documents/Github/py_group_lasso/"
+ "/Users/elSamu/Desktop/Convex Optimisation/py_lasso/"
+ "/Users/elSamu/Desktop/Convex Optimisation/py_lasso/pyadmm/"
+ "/Users/elSamu/Desktop/Convex Optimisation/py_consensus/"
+ "/Users/elSamu/Desktop/Convex Optimisation/spark_samples/"
+ "/Users/elSamu/Desktop/Convex Optimisation/matlab_lasso/"
+ "/Users/elSamu/Desktop/Convex Optimisation/"
+ "/Users/elSamu/Documents/Github/pyadmm/pyadmm/"
+ "/Users/elSamu/Desktop/Convex Optimisation/pyadmm/"
+ "/Users/elSamu/Documents/Notes/FIT1031/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "US39522.org"
+ "US41958.org"
+ "US39465.org"
+ "week1.org"
+ "books.org"
+ "test.py"
+ "auspost.org"
+ "tute-7.org"
+ "tutorial6.org"
+ "tute5.org"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/elSamu/Desktop/Post/Code/po-box-associate-ui/" (22430 37739 0 0) "tmp/" "test/" "readme.md" "protractor-results/" "protractor/" "package.json" "npm-shrinkwrap.json" "npm-debug.log" "node_modules/" "gulpfile.babel.js" "gulp/" "exception.png" "dist/" "BrowserStackLocal" "app/" ".gitignore" ".git/" ".eslintrc" ".editorconfig" ".babelrc" "../" "./")
+
+ ("/Users/elSamu/Desktop/Post/Code/" (22415 8177 0 0) "po-box-associate-ui/" "po-box-associate-api/" "../" "./")
+
+ ("/Users/elSamu/Desktop/Post/" (22430 60854 0 0) "QA/" "node_modules/" "Important_Information_&_Documents/" "HR-Meetings/" "Diary/" "Code/" "Bike Cage Showers and Lockers Application Form.pdf" "API COP Minutes.docx" "8dd63518950b628e8294" ".DS_Store" "../" "./")
+
+ ("/Users/elSamu/Desktop/" (22424 20265 0 0) "uva/" "Thumbs.db" "test.py" "scripts/" "resume.org" "research/" "python-machine-learning-book/" "pyethereum/" "prot-test.js" "Post/" "PO_Box_associate_-_Australia_Post.png" "parallel_letter.org" "output.txt" "otw.txt" "mantasano/" "lego_spaceman_green_-_Google_Search.png" "interest" "hello/" "group-lasso/" "cryptopals/" "Convex_Optimisation/" "clojure-getting-started/" "brute.py" "books.org" "auspost.org" ".localized" ".ipynb_checkpoints/" ".DS_Store" "$RECYCLE.BIN/" "../" "./")
+
+ ("/Users/elSamu/" (22432 2782 0 0) "work/" "VirtualBox VMs/" "TUTORIAL~" "TUTORIAL" "texput.log" "testdir/" "target/" "SoapUI-Tutorials/" "soapui-settings.xml" "screen_c.jpg" "README.md" "random.dat" "Public/" "pl.ini" "Pictures/" "output.txt/" "octave-workspace" "node_modules/" "nltk_data/" "Music/" "Movies/" "metastore_db/" "Library/" "group_lasso/" "Google Drive/" "github/" "geth.log" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "derby.log" "default-soapui-workspace.xml" "command-line-args/" "Code/" "Books/" "bin/" "AT.postflight.1337" "Applications (Parallels)/" "Applications/" ".zshrc" ".zinc/" ".xml" ".Xauthority" ".wireshark-etc/" ".wireshark/" ".wine/" ".wget-hsts" ".web3/" ".w3m/" ".vimrc" ".viminfo" ".vim/" ".v8flags.5.0.71.47.elSamu.json" ".v8flags.4.5.103.36.elSamu.json" ".Trash/" ".tmux.conf~" ".tmux.conf" ".swp" ".swo" ".swipl-dir-history/" ".subversion/" ".ssh/" ".sqlite_history" ".sqldeveloper/" ".spark_history" ".soapuios/" ".slime-history.eld" ".slime/" ".slate" ".sh_history" ".scala_history" ".sbt/" ".rnd" ".recon-ng/" ".Rapp.history" ".pyxbld/" ".python_history" ".python27_compiled/" ".planck_history" ".pia_manager_crash.log" ".pia_manager/" ".pdfstudio8/" ".oracle_jre_usage/" ".octaverc" ".octave_hist" ".npmrc" ".npm/" ".node_repl_history" ".node_modules_global/" ".node-gyp/" ".netrc" ".matplotlib/" ".matlab/" ".m2/" ".local/" ".lesshst" ".lein/" ".julia_history" ".jssc/" ".ivy2/" ".ipython/" ".ipynb_checkpoints/" ".idlerc/" ".htoprc" ".heroku/" ".gradle/" ".gitignore_global" ".gitconfig" ".git-completion.bash" ".ghc/" ".gdbinit" ".fontconfig/" ".ethereum/" ".emacs.d/" ".DS_Store" ".dropbox/" ".dia-etc/" ".dia/" ".cups/" ".config/" ".CFUserTextEncoding" ".canopy/" ".cache/" ".bashrc~" ".bashrc" ".bash_sessions/" ".bash_profile.swp" ".bash_profile.pysave" ".bash_profile" ".bash_logout" ".bash_history" ".babel.json" ".atom/" ".aspell.en.pws" ".aspell.en.prepl" ".asepriterc" ".anyconnect" ".android/" "#TUTORIAL#" "#test.json#" "../" "./")
+
+ ("/Users/elSamu/Desktop/Post/QA/scripts/" (22408 35126 0 0) "data-probe.py" "../" "./")
+
+ ("/Users/elSamu/Desktop/Post/QA/" (22413 45780 0 0) "US41958.org" "US39522.tex" "US39522.org" "US39522-email.png" "US39465.org" "UI-writeup.org" "UI-Logic.xlsx" "scripts/" "DE8089/" "../" "./")
+
+ ("/Users/elSamu/.emacs.d/" (22408 33431 0 0) "url/" "srecode-map.el" "snippets/" "request/" "places" "metastore_db/" "lisp/" "init.el~" "init.el" "ido.last" "emacs-for-python-master/" "elpa/" "derby.log" "backups/" "auto-save-list/" "ac-comphist.dat" "../" "./")
+
+ ("/Users/elSamu/Downloads/" (22412 21783 0 0) "Whonix-Workstation-12.0.0.3.2.ova" "Whonix-Gateway-12.0.0.3.2.ova" "wallace__big_red_sun__1998.pdf" "ubuntu-16.04-desktop-amd64.iso" "TrueCrypt 7.1a Mac OS X.dmg.sig" "TrueCrypt 7.1a Mac OS X.dmg(1).sig" "TrueCrypt 7.1a Mac OS X.dmg" "Tony.jpg" "Thumbs.db" "Threatbutt-DZIR-2016.pdf" "The Revenant 2015 1080p WEB-DL x264 AC3-JYK/" "Steve McConnell-Code Complete  -Microsoft Press (2009).mobi" "SoapUI-5.2.1.dmg" "Sam_Schneider.png" "prob-A.pdf" "Postman-osx-4.4.2.zip" "order_history" "Norman, Donald A-The Design of Everyday Things_ Revised and Expanded Edition-Basic Books (2013).pdf" "nltk.pdf" "Nick.jpeg" "New-QA Dhany Tie.png" "New-IM Kamil.png" "New-FS Asanga.png" "New-AC Nadir Khan.png" "Mr.Robot.S02E02.HDTV.x264-KILLERS[ettv]/" "Mr.Robot.S02E01.720p.WEBRip.AAC2.0.H.264-KNiTTiNG[ettv]/" "Michael Lewis-Liar's Poker-W. W. Norton & Company (2010).epub" "Michael Lewis-Flash boys_ a Wall Street revolt-W. W. Norton & Company (2014).mobi" "Michael Lewis -Liar's Poker (2010).pdf" "Lucas pic.JPG" "LA2206x_data_sheet_011811.pdf" "Kim.png" "Kexin Liao.jpg" "Kevin Onik.png" "Kali-Linux-2016.1-vbox-amd64/" "kali-linux-2016.1-amd64/" "Jared Quinert.jpg" "IPython Notebooks/" "Instructions for recording your timesheet in SAPCATS V1 0 Update.docx" "IMG_20160715_085818.jpg" "Grigori.png" "Game.of.Thrones.S06E10.INTERNAL.HDTV.x264-KILLERS[ettv]/" "Game.of.Thrones.S06E09.HDTV.x264-KILLERS[ettv]/" "Game.of.Thrones.S06E08.720p.HDTV.2CH.x265.HEVC-PSA.mkv" "Front Matter.pdf" "Evernote_RELEASE_6.7.1_453574.dmg" "Docker.dmg" "Docker(1).dmg" "com_pobr_api_ptest-soapui-project_IncludesC30.xml" "CollingwoodPOBDump.txt" "Charles Ellis-Winning the Loser's Game, Fifth Edition_ Timeless Strategies for Successful Investing-McGraw-Hill (2009).pdf" "ch1.pdf" "Bills___Payments.png" "australiapostpreemploymentchecks/" "Antonio Garcia Martinez-Chaos Monkeys_ Obscene Fortune and Random Failure in Silicon Valley-Harper (2016).mobi" "Antonio Garcia Martinez-Chaos Monkeys_ Obscene Fortune and Random Failure in Silicon Valley-Harper (2016).epub" "Antonio Garcia Martinez-Chaos Monkeys_ Obscene Fortune and Random Failure in Silicon Valley-Harper (2016).azw3" "Anita.jpg" "AdobeFlashPlayer_22au_a_install.dmg" "[Yuxing_Yan]_Python_for_Finance(BookZZ.org).pdf" "[Xinfeng_Zhou]_A_Practical_Guide_To_Quantitative_F(BookZZ.org).pdf" "[Raschka]_Python_Machine_Learning(BookZZ.org).pdf" "[Kevin_J._Davey]_Building_Winning_Algorithmic_Trad(BookZZ.org).pdf" "[John_Sonmez]_Soft_Skills_The_software_developer'(BookZZ.org).epub" "[John_J._Murphy]_Technical_Analysis_of_the_Financi(BookZZ.org).pdf" "[James_Turnbull]_The_Docker_Book(BookZZ.org).pdf" "[J._Roger_Hindley,_Jonathan_P._Seldin]_Lambda-calc(BookZZ.org).pdf" "[Chris_Okasaki]_Purely_Functional_Data_Structures(BookZZ.org).pdf" "[Chandermani]_AngularJS_by_Example(BookZZ.org).pdf" "[Bruce_Dang,_Alexandre_Gazet,_Elias_Bachaalany,_S%C3(BookZZ.org).pdf" "9780134165271-lesson03.mp4" "9780134165271-lesson02.mp4" "3579797452825_30062016.pdf" ".localized" ".ipynb_checkpoints/" ".DS_Store" "$RECYCLE.BIN/" "../" "./")
+
+ ("/Users/elSamu/Desktop/Post/Diary/" (22412 5823 0 0) "week1.org" "../" "./")
+
+ ("/Users/elSamu/Desktop/FIT2001/tutorials/" (22364 51931 0 0) "Tutorial 8.pdf" "Tutorial 7.pdf" "Tutorial 6.pdf" "Tutorial 5.pdf" "Tutorial 4(Replacement).pdf" "Tutorial 11.pdf" "Tutorial 10.pdf" "tute6.org" "tute5.org" "tute3.org" "tute1.org" "Tute 3.pdf" "Tute 2.pdf" "Tute 12.pdf" "../" "./")
+
+ ("/Users/elSamu/Desktop/FIT2001/" (22364 51944 0 0) "tutorials/" "tutorial-solutions/" "lecture-notes/" "details.org" "assignments/" ".DS_Store" "../" "./")
+
+ ("/Users/elSamu/Desktop/FIT3143/tutorial-solutions/" (22360 40652 0 0) "tutorial8.org" "tutorial6.org" "tutorial4.org" "tutorial1.org" "tute9.org" "tute5.org" "tute3.org" "tute2.org" "tute-7.org" ".DS_Store" "../" "./")
+
+ ("/Users/elSamu/Desktop/FIT3143/" (22357 2045 0 0) "tutorials/" "tutorial-solutions/" "lecture-notes/" "labs/" "assignments/" ".DS_Store" "../" "./")
+
+ ("/Users/elSamu/Desktop/FIT3143/tutorials/" (22357 1793 0 0) "tute-9.pdf" "tute-8.pdf" "tute-7.pdf" "tute-6.pdf" "tute-5.pdf" "tute-4.pdf" "tute-3.pdf" "tute-2.pdf" "tute-1.pdf" "../" "./")
+
+ ("/Users/elSamu/Desktop/FIT3143/tutes/" (22357 1550 0 0) "tute9.org" "tute5.org" "tute3.org" "tute2.org" "tute-7.org" "tute-3.pdf" "../" "./")
+
+ ("/Users/elSamu/Code/theHarvester/" (22340 8791 0 0) "theHarvester.pyc" "theHarvester.py" "tests/" "README" "myparser.pyc" "myparser.py" "LICENSES" "lib/" "discovery/" "COPYING" "changelog.txt" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/elSamu/Code/theDao/" (22340 8094 0 0) "source.txt" "../" "./")
+
+ ("/Users/elSamu/Code/" (22340 8064 0 0) "theHarvester/" "theDao/" "Sublist3r/" "shelltoascii.py" "recon-ng/" "learn-haskell/" ".xml" "../" "./")
+
+ ("/Users/elSamu/Desktop/scripts/" (22300 37636 0 0) "char_array2.dSYM/" "char_array2.c" "char_array2" "../" "./")
+
+ ("/Users/elSamu/Desktop/FIT3143/assignments/assignment2/" (22329 4201 0 0) "task1.c" "sam_schneider_assignment2.pdf" "sam_schneider_ass2.pdf" "New Writeup.docx" "makefile" "images/" "A2-fit3143.pdf" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/elSamu/Desktop/FIT3143/assignments/" (22293 43942 0 0) "assignment2/" "assignment1/" ".DS_Store" "../" "./")
+
+ ("/Users/elSamu/Desktop/FIT3143/labs/lab6/" (22295 9776 0 0) "t1" "main.c" "../" "./")
+
+ ("/Users/elSamu/Desktop/FIT3143/labs/lab5/" (22285 59683 0 0) "task2.c" "task1.c" "t2" "t1" "pi.c" "pi" "output.txt" "../" "./")
+
+ ("/Users/elSamu/Desktop/FIT3143/labs/" (22295 3963 0 0) "lab6/" "lab5/" "lab4/" "lab3/" "lab2/" "lab1.org" "../" "./")
+
+ ("/Users/elSamu/Desktop/MTH3051/assignments/assignment_3/" (22293 46559 0 0) "recurrence_fraction.m" "questions.pdf" "part_f.m" "part_c.m" "../" "./")
+
+ ("/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/" (22288 18340 0 0) "try/" "metastore_db/" "hello.t/" "group_lasso.scala" "derby.log" "#derby.log#" "../" "./")
+
+ ("/Users/elSamu/Desktop/MTH3051/assignments/assignment_1/" (22275 17552 0 0) "test.m" "test/" "solverTest.m" "questions.pdf" "printouts.txt" "octave-workspace" "multiply.m" "longprint.m" "factorial.m" "Discussion of Multiply.docx" "decimaldigits.m" "Algorithm Discussion.docx" ".#test.m" "#test.m#" "../" "./")
+
+ ("/Users/elSamu/Desktop/MTH3051/assignments/" (22291 27332 0 0) "questions (2).pdf" "questions (1).pdf" "assignment_3/" "assignment_2/" "assignment_1/" ".DS_Store" "../" "./")
+
+ ("/Users/elSamu/Desktop/MTH3051/assignments/assignment_2/" (22275 18260 0 0) "questions.pdf" "octave-workspace" "bessel_recurrence1C.m" "bessel_recurrence1B.m" "bessel_recurrence1A.m" "Assignment 2 Discussion.docx" "../" "./")
+
+ ("/Users/elSamu/Desktop/FIT3143/assignments/assignment1/" (22273 46067 0 0) "sam_schneider_FIT3143_assignment_1.pdf" "plan.org" "mine.doc" "instruct8.5x11x2.pdf" "instruct8.5x11x2.doc" "CPU_GPU.png" "../" "./")
+
+ ("/Users/elSamu/Desktop/mantasano/" (22270 9139 0 0) "task5.py" "task4.py" "task3.py" "task2.py" "task1.py" "__pycache__/" "4.txt" "../" "./")
+
+ ("/Applications/Emacs.app/Contents/Resources/" (21944 19098 0 0) "English.lproj/" "Emacs.icns" "document.icns" "Credits.html" "../" "./")
+
+ ("/Applications/Emacs.app/Contents/" (21944 19098 0 0) "Resources/" "PkgInfo" "MacOS/" "Info.plist" "../" "./")
+
+ ("/Applications/Emacs.app/" (21944 19098 0 0) "Contents/" "../" "./")
+
+ ("/Applications/" (22267 29668 0 0) "xScope.app/" "XAMPP/" "Wireshark.app/" "WD Security.app/" "WD Drive Utilities.app/" "WD Drive Utilities Uninstaller.app/" "VOX.app/" "VLC.app/" "VirtualBox.app/" "uTorrent.app/" "Utilities/" "TorBrowser.app/" "Time Machine.app/" "The Unarchiver.app/" "TextMate.app/" "TextEdit.app/" "TeX/" "System Preferences.app/" "Stickies.app/" "Steam.app/" "Spotify.app/" "Slate.app/" "Skype.app/" "Skitch.app/" "Simple Comic.app/" "Seil.app/" "Safari.app/" "RStudio.app/" "RSS Reader.app/" "Retinizer.app/" "Remote Desktop Connection.app/" "Reminders.app/" "R.app/" "QuickTime Player.app/" "Python 3.5/" "Python 3.4/" "Python 3.3/" "Python 2.7/" "PyCharm CE.app/" "Private Internet Access.app/" "Preview.app/" "Pixelmator.app/" "Photos.app/" "Photo Booth.app/" "Paintbrush.app/" "OpenEmu.app/" "Notes.app/" "NoteBook.app/" "MultiBit.app/" "Mission Control.app/" "Minecraft.app/" "Microsoft Office 2011/" "Messages.app/" "MATLAB_R2015b.app/" "Mathematica.app/" "Maps.app/" "Mail.app/" "Little Snitch Configuration.app/" "Launchpad.app/" "Karabiner.app/" "Julia-0.3.11.app/" "iTunes.app/" "iTerm.app/" "iPhoto.app/" "Image Capture.app/" "iBooks.app/" "GuitarPro.app/" "Google Drive.app/" "Google Chrome.app/" "GitHub Desktop.app/" "Game Center.app/" "Font Book.app/" "Firefox.app/" "FaceTime.app/" "Evernote.app/" "Emacs.app/" "DVD Player.app/" "DjVu Reader.app/" "Disk Doctor.app/" "Dictionary.app/" "Dashboard.app/" "Contacts.app/" "Clearview.app/" "Cisco/" "Chess.app/" "Calendar.app/" "Calculator.app/" "Bitcoin-Qt.app/" "BetterSnapTool.app/" "AVG Cleaner.app/" "Automator.app/" "AppCleaner.app/" "App Store.app/" "Adobe Digital Editions.app/" "Adobe Digital Editions 2.0.app/" "Adobe Application Manager/" "Adobe Acrobat Reader DC.app/" "1Password.app/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/elSamu/Applications/" (22247 48030 0 0) "TIS-100.app/" "The Witcher Enhanced Edition.app/" "Slate.app/" "Dota 2.app/" "Chrome Apps.localized/" "Batman Arkham City GOTY.app/" "Amethyst.app/" "Akamai/" "../" "./")
+
+ ("/Users/elSamu/Desktop/cryptopals/" (22267 22258 0 0) "webserver.py" "README.md" "prob9.py" "prob8.py" "prob7.py" "prob6.py" "prob5.py" "prob48.py" "prob47.py" "prob46.py" "prob45.py" "prob44.py" "prob43.py" "prob42.py" "prob41.py" "prob40.py" "prob4.py" "prob39.py" "prob38.py" "prob37.py" "prob36.py" "prob35.py" "prob34.py" "prob33.py" "prob32.py" "prob31.py" "prob30.py" "prob3.py" "prob29.py" "prob28.py" "prob27.py" "prob26.py" "prob25.py" "prob24.py" "prob23.py" "prob22.py" "prob21.py" "prob20.py" "prob2.py" "prob19.py" "prob18.py" "prob17.py" "prob16.py" "prob15.py" "prob14.py" "prob13.py" "prob12.py" "prob11.py" "prob10.py" "prob1.py" "LICENSE" "__pycache__/" "4.txt" ".git/" "../" "./")
+
+ ("/Users/elSamu/Desktop/FIT3143/labs/lab2/" (22249 22913 0 0) "switch-case.c" "string2.c" "string.c" "sine.c" "pointer.c" "loops.c" "inoutWC.c" "inout2.c" "inout1.c" "hello.c" "func3.c" "func2.c" "func1.c" "foo.dat" "fib.c" "command2.c" "command1.c" "a.out" "#func2.c#" "../" "./")
+
+ ("/Users/elSamu/Desktop/FIT3143/labs/lab3/" (22258 8976 0 0) "trial" "shared_data.c" "shared" "helloworld" "hello_world.c" "../" "./")
+
+ ("/Users/elSamu/Library/Application Support/Karabiner/" (22246 45709 0 0) "private.xml" "../" "./")
+
+ ("/Users/elSamu/Library/Application Support/" (22246 45449 0 0) "µTorrent/" "VLC/" "uTorrent/" "Ubiquity/" "TIS-100/" "TextMate/" "TeX Live Utility/" "SyncServices/" "Steam/" "Spotify/" "Skype/" "Simple Comic/" "Quick Look/" "PyCharm40/" "Propellerhead Software/" "Preview/" "PDFpenPro/" "org.videolan.vlc/" "org.openemu.OEXPCCAgent.Agents/" "Oracle/" "OpenEmu/" "NVIDIA/" "NotificationCenter/" "NoteBook/" "Native Instruments/" "MultiBit/" "Mozilla/" "MobileSync/" "minecraft/" "Microsoft/" "logs/" "Little Snitch/" "Librarian/" "Karabiner/" "JREInstaller/" "Java/" "Jason Linhart/" "iTerm/" "Instruments/" "iLifeMediaBrowser/" "iLifeAssetManagement/" "iCloud/" "icdd/" "Guitar Pro 6/" "Gtk2/" "Google/" "GOG.com/" "GitHub for Mac/" "GarageBand/" "Firefox/" "Feral Interactive/" "DVD Player/" "Dock/" "CrashReporter/" "Console/" "ComicBookLover/" "com.slate.Slate/" "com.github.GitHub.ShipIt/" "com.cdprojektred.TheWitcher/" "com.apple.TCC/" "com.apple.spotlight.Shortcuts" "com.apple.spotlight/" "com.apple.sharedfilelist/" "com.apple.sbd/" "com.apple.QuickLook/" "CloudDocs/" "CEF/" "CallHistoryTransactions/" "CallHistoryDB/" "Blizzard/" "BetterSnapTool/" "Backup/" "Avatron/" "ArtRage 3/" "AppCleaner/" "App Store/" "Apimac/" "Ambient Design/" "Amanita Design/" "Adobe/" "AddressBook/" "ActiveState/" "Ableton/" ".DS_Store" "../" "./")
+
+ ("/Users/elSamu/Library/" (22222 40243 0 0) "WebKit/" "Voices/" "VirtualBox/" "SyncedPreferences/" "Suggestions/" "StickiesDatabase" "Spotlight/" "Spelling/" "Sounds/" "Services/" "Screen Savers/" "Saved Application State/" "Safari/" "Receipts/" "PubSub/" "Private Internet Access/" "Printers/" "Preferences/" "PreferencePanes/" "PDF Services/" "Parallels/" "Mobile Documents.1498191225/" "Mobile Documents/" "Metadata/" "Messages/" "Mathematica/" "Mail/" "Logs/" "LaunchAgents/" "LanguageModeling/" "Keychains/" "Keyboard Layouts/" "iTunes/" "Internet Plug-Ins/" "Input Methods/" "iMovie/" "IdentityServices/" "Icons/" "Group Containers/" "Google/" "GameKit/" "Fonts Disabled/" "Fonts/" "FontCollections/" "Favorites/" "Ethereum/" "Enthought/" "Dictionaries/" "Developer/" "CoreFollowUp/" "CoreData/" "Cookies/" "Containers/" "Compositions/" "com.apple.nsurlsessiond/" "ColorSync/" "Colors/" "ColorPickers/" "Calendars/" "Caches/" "Autosave Information/" "Audio/" "Assistants/" "Application Support/" "Application Scripts/" "Address Book Plug-Ins/" "Accounts/" ".localized" "../" "./")
+
+ ("/Users/elSamu/Documents/Github/" (22246 30747 0 0) "swackets/" "spark-test/" "python-admm/" "node_modules/" "dac/" "crypto-scrape/" "block/" "als-ncg/" "admm/" ".DS_Store" "../" "./")
+
+ ("/Users/elSamu/Documents/Github/crypto-scrape/" (22246 36787 0 0) "basics.py" ".#basics.py" "#basics.py#" "../" "./")
+
+ ("/Users/elSamu/Documents/Notes/FIT1031/" (22246 77 0 0) "lecture_notes_9.org" "lecture_notes_8.org" "lecture_notes_7.org" "lecture_notes_6.org" "lecture_notes_5.org" "lecture_notes_4.org" "lecture_notes_3.org" "lecture_notes_2.org" "lecture_notes_1.org" "lecture_notes_1.html" "Lecture Notes Three - Boolean Algebra and Digital Logic/" ".DS_Store" ".#tute3.org" "#tute3.org#" "../" "./")
+
+ ("/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/" (22240 64415 0 0) "vec_test_data.txt" "target/" "src/" "project/" "metastore_db/" "mat_test_data.txt" "derby.log" "BV," "build.sbt" "BSV," "bin/" "BDV," "BDM}" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/elSamu/Desktop/Convex_Optimisation/matlab_group_lasso/" (22242 7473 0 0) "vec_test_data.txt" "vec_data.txt" "metastore_db/" "mat_test_data.txt" "mat_data.txt" "group_lasso.m" "derby.log" "data_gen_matlab.m" "../" "./")
+
+ ("/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/hello.t/" (22242 40518 0 0) "part-00007" "part-00006" "part-00005" "part-00004" "part-00003" "part-00002" "part-00001" "part-00000" "_SUCCESS" ".part-00007.crc" ".part-00006.crc" ".part-00005.crc" ".part-00004.crc" ".part-00003.crc" ".part-00002.crc" ".part-00001.crc" ".part-00000.crc" "._SUCCESS.crc" "../" "./")
+
+ ("/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/bin/" (22234 38504 0 0) "vec_test_data.txt" "run-tests" "run" "mat_test_data.txt" "data_gen.scala" ".run-tests.swp" "../" "./")
+
+ ("/Users/elSamu/Desktop/MTH3051/" (22231 31911 0 0) "tutorials/" "lecture_notes/" "assignments/" ".DS_Store" "../" "./")
+
+ ("/Users/elSamu/Desktop/MTH3051/assignment_1/" (22230 21439 0 0) "test.m" "multiply.m" ".#test.m" "#test.m#" "../" "./")
+
+ ("/Users/elSamu/Desktop/Convex_Optimisation/py_lasso/" (22210 52403 0 0) "lasso_test.py" "lasso.pyc" "lasso.py" "data_generator.py" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/elSamu/Desktop/Convex_Optimisation/" (22203 60818 0 0) "test_output.txt" "spark_samples/" "sp_group_lasso/" "py_lasso/" "py_consensus/" "matlab_lasso/" "matlab_group_lasso/" "matlab_data.txt" "HansDeSterck-SummerVacationResearchProjects.pdf" "data.txt" "BFGS/" "als-ncg/" "admm_distr_stats.pdf" "__pycache__/" ".DS_Store" "../" "./")
+
+ ("/Users/elSamu/Downloads/Oxford Handbook of Clinical Medicine, 9E [PDF] [StormRG]/" (22199 52951 0 0) "Oxford Handbook of Clinical Medicine, Ninth Edition- Murray Longmore.pdf" "Metadata.opf" "Cover.jpg" "../" "./")
+
+ ("/Users/elSamu/Desktop/test/" (22200 32710 0 0) "test.cpp" "test" "../" "./")
+
+ ("/Users/elSamu/Desktop/python-getting-started/" (22110 29767 0 0) "runtime.txt" "requirements.txt" "README.md" "Procfile.windows" "Procfile" "manage.py" "hello/" "gettingstarted/" ".gitignore" ".git/" ".env" "../" "./")
+
+ ("/Users/elSamu/Documents/SPOJ/" (22200 30008 0 0) "test/" "prime1/" "onp/" "../" "./")
+
+ ("/Users/elSamu/Documents/" (22200 5117 0 0) "Wolfram Mathematica/" "University/" "Tickets/" "Tabs/" "SPOJ/" "Scribble Projects/" "Saved Games/" "RDC Connections/" "Python Library/" "Project Euler/" "Notes/" "Notebooks/" "Native Instruments/" "My Shapes/" "My Games/" "Microsoft User Data/" "MATLAB/" "Magazines/" "Java Docs/" "Github/" "GIT/" "Energia/" "Emulators/" "Ebooks/" "DOSBOX/" "Digital Editions/" "Certificates/" "C Library/" "Blog/" "BeerSmith2/" "Beers/" "ArtRage Paintings/" "Arduino/" "Applications/" ".parallels-vm-directory/" ".localized" ".DS_Store" "$RECYCLE.BIN/" "../" "./")
+
+ ("/Users/elSamu/Documents/SPOJ/prime1/" (22201 8588 0 0) "main.cpp" "main" "../" "./")
+
+ ("/Users/elSamu/Documents/SPOJ/onp/" (22200 28573 0 0) "main.cpp" "main" "../" "./")
+
+ ("/Users/elSamu/Documents/SPOJ/test/" (22200 6081 0 0) "main.cpp" "main" "a.out" "../" "./")
+
+ ("/Users/elSamu/Documents/Scribble Projects/" (21269 28799 0 0) "../" "./")
+
+ ("/Users/elSamu/Desktop/SimpleSparkProject/" (22195 59224 0 0) "build.sbt" "../" "./")
+
+ ("/Users/elSamu/Desktop/Scala/" (22195 58858 0 0) "test.sl" "summer.scala" "rational.scala" "pa.scala~" "pa.scala" "metastore_db/" "match.scala" "LongLines.scala" "LongLines.class" "LongLines$.class" "LongLines$$anonfun$processFile$1.class" "hello.scala" "gcdLoop.scala" "FindLongLines.scala" "FindLongLines.class" "FindLongLines$.class" "FindLongLines$$anonfun$main$1.class" "FileMatcher.scala" "Element.scala" "derby.log" "date.txt" "ChecksumAccumulator.scala" "../" "./")
+
+ ("/Users/elSamu/Documents/Github/python-admm/group-lasso/" (22194 32292 0 0) "setup.py" "lasso_test.py" "group_lasso.pyc" "group_lasso.py" "data_generator.pyc" "data_generator.py" "../" "./")
+
+ ("/Users/elSamu/github/" (22061 40353 0 0) "test-package/" "../" "./")
+
+ ("/Users/" (22064 10076 0 0) "Shared/" "elSamu/" ".localized" "../" "./")
+
+ ("/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/" (22193 30904 0 0) "lasso/" "../" "./")
+
+ ("/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/" (22193 30904 0 0) "scala/" "../" "./")
+
+ ("/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/" (22193 30904 0 0) "main/" "../" "./")
+
+ ("/Users/elSamu/output.txt/" (22190 61057 0 0) "part-00001" "part-00000" "_SUCCESS" ".part-00001.crc" ".part-00000.crc" "._SUCCESS.crc" "../" "./")
+
+ ("/Users/elSamu/Desktop/Convex_Optimisation/spark_samples/" (22167 1058 0 0) "vector_mult.scala" "vector.scala" "target/" "src/" "simple.sbt" "project/" "metastore_db/" "derby.log" "../" "./")
+
+ ("/Users/elSamu/Desktop/Convex Optimisation/" (22164 32872 0 0) "spark_samples/" "sp_group_lasso/" "py_lasso/" "py_consensus/" "matlab_lasso/" "HansDeSterck-SummerVacationResearchProjects.pdf" "BFGS/" "als-ncg/" "admm_distr_stats.pdf" "__pycache__/" ".DS_Store" "../" "./")
+
+ ("/Users/elSamu/Desktop/Convex Optimisation/sp_group_lasso/" (22165 35185 0 0) "group_lasso.scala" "../" "./")
+
+ ("/Users/elSamu/Documents/Github/python-admm/" (22126 10365 0 0) "metastore_db/" "group-lasso/" "derby.log" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/elSamu/Desktop/Convex Optimisation/spark_samples/" (22164 32497 0 0) "vector_mult.scala" "target/" "src/" "simple.sbt" "project/" "metastore_db/" "derby.log" "../" "./")
+
+ ("/Users/elSamu/Desktop/Convex Optimisation/BFGS/" (22155 13280 0 0) "l_bfgs.py" "../" "./")
+
+ ("/Users/elSamu/Documents/Github/py_group_lasso/" (22126 4823 0 0) "setup.py" "lasso_test.py" "group_lasso.pyc" "group_lasso.py" "data_generator.pyc" "data_generator.py" ".git/" ".DS_Store" ".#group_lasso.py" "../" "./")
+
+ ("/Users/elSamu/Desktop/Convex Optimisation/py_lasso/" (22122 22656 0 0) "lasso_test.py" "lasso.pyc" "lasso.py" "data_generator.py" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/elSamu/Desktop/Convex Optimisation/py_consensus/" (22122 13617 0 0) "py_consensus.py" "../" "./")
+
+ ("/Users/elSamu/Desktop/Convex Optimisation/py_lasso/pyadmm/" (22122 21596 0 0) "utils.pyc" "utils.py" "lasso.pyc" "basis_pursuit.pyc" "basis_pursuit.py" "__pycache__/" "__init__.pyc" "__init__.py" ".DS_Store" "../" "./")
+
+ ("/Users/elSamu/Desktop/FIT2002/Tutorials/" (22120 65088 0 0) "tutorial_9.org" "tutorial_8.org" "tutorial_5.org" "tutorial4.org" "Tutorial 4.pdf" "Tutorial 3.pdf" "Tutorial 1.pdf" ".#tutorial_5.org" "#tutorial_5.org#" "../" "./")
+
+ ("/Users/elSamu/Desktop/FIT2002/" (22109 27525 0 0) "Workshops/" "Tutorials/" "Lecture Notes/" "Assignment/" ".DS_Store" "../" "./")
+
+ ("/Users/elSamu/Desktop/Convex Optimisation/matlab_lasso/" (22113 9853 0 0) "octave-workspace" "lasso.mat" "data_generator.m" "../" "./")
+
+ ("/Users/elSamu/Documents/Applications/" (22077 18552 0 0) "Science Leaders /" "Sam_Schneider_Academic_Transcript.pdf" "Resume/" "RA/" "profile_photo.jpg" "profile_photo copy.jpg" "NCP Scholarship.txt" "IT Assistant 2015 Information & Application.docx" "internship application.txt" "IBL/" "Govt_application.txt" "Birth_certificate 1.jpeg" "Ancora Imparo/" "access_ambassador.txt" "academic_transcript.pdf" ".DS_Store" "../" "./")
+
+ ("/Users/elSamu/Documents/Github/pyadmm/pyadmm/" (22111 42316 0 0) "utils.pyc" "utils.py" "lasso.pyc" "lasso.py" "basis_pursuit.pyc" "basis_pursuit.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/elSamu/Documents/Github/pyadmm/" (22110 32052 0 0) "tests/" "setup.py" "README.txt" "pyadmm/" ".hgignore" ".hg/" "../" "./")
+
+ ("/Users/elSamu/Documents/Github/admm/" (22107 32771 0 0) "util/" "README.md" "notes/" "code/" "bin/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/elSamu/Documents/GIT/" (21634 51560 0 0) "git_first_proj/" "explore_california/" "../" "./")
+
+ ("/Users/elSamu/Desktop/Convex Optimisation/pyadmm/" (22110 30641 0 0) "lasso.py" "../" "./")
+
+ ("/etc/apache2/" (22064 10461 0 0) "users/" "other/" "original/" "mime.types" "magic" "httpd.conf~previous" "httpd.conf.pre-update" "httpd.conf" "extra/" "../" "./")
+
+ ("/Users/elSamu/Desktop/Flask/" (22063 31540 0 0) "hello.py" "#sample.md#" "../" "./")
+
+ ("/Users/elSamu/Desktop/Python-3.4.3_SAUCE/Lib/" (22063 28801 0 0) "zipfile.py" "xmlrpc/" "xml/" "xdrlib.py" "wsgiref/" "webbrowser.py" "weakref.py" "wave.py" "warnings.py" "venv/" "uuid.py" "uu.py" "urllib/" "unittest/" "types.py" "turtledemo/" "turtle.py" "tty.py" "tracemalloc.py" "traceback.py" "trace.py" "tokenize.py" "token.py" "tkinter/" "timeit.py" "threading.py" "this.py" "textwrap.py" "test/" "tempfile.py" "telnetlib.py" "tarfile.py" "tabnanny.py" "sysconfig.py" "symtable.py" "symbol.py" "sunau.py" "subprocess.py" "struct.py" "stringprep.py" "string.py" "statistics.py" "stat.py" "ssl.py" "sre_parse.py" "sre_constants.py" "sre_compile.py" "sqlite3/" "socketserver.py" "socket.py" "sndhdr.py" "smtplib.py" "smtpd.py" "site.py" "site-packages/" "shutil.py" "shlex.py" "shelve.py" "selectors.py" "sched.py" "runpy.py" "rlcompleter.py" "reprlib.py" "re.py" "random.py" "quopri.py" "queue.py" "pydoc_data/" "pydoc.py" "pyclbr.py" "py_compile.py" "pty.py" "pstats.py" "profile.py" "pprint.py" "posixpath.py" "poplib.py" "plistlib.py" "platform.py" "plat-unixware7/" "plat-sunos5/" "plat-next3/" "plat-netbsd1/" "plat-linux/" "plat-generic/" "plat-freebsd8/" "plat-freebsd7/" "plat-freebsd6/" "plat-freebsd5/" "plat-freebsd4/" "plat-darwin/" "plat-aix4/" "pkgutil.py" "pipes.py" "pickletools.py" "pickle.py" "pdb.py" "pathlib.py" "os.py" "optparse.py" "operator.py" "opcode.py" "numbers.py" "nturl2path.py" "ntpath.py" "nntplib.py" "netrc.py" "multiprocessing/" "msilib/" "modulefinder.py" "mimetypes.py" "mailcap.py" "mailbox.py" "macurl2path.py" "macpath.py" "lzma.py" "logging/" "locale.py" "linecache.py" "lib2to3/" "keyword.py" "json/" "ipaddress.py" "io.py" "inspect.py" "importlib/" "imp.py" "imghdr.py" "imaplib.py" "idlelib/" "http/" "html/" "hmac.py" "heapq.py" "hashlib.py" "gzip.py" "glob.py" "gettext.py" "getpass.py" "getopt.py" "genericpath.py" "functools.py" "ftplib.py" "fractions.py" "formatter.py" "fnmatch.py" "fileinput.py" "filecmp.py" "enum.py" "ensurepip/" "encodings/" "email/" "dummy_threading.py" "doctest.py" "distutils/" "dis.py" "difflib.py" "decimal.py" "dbm/" "datetime.py" "curses/" "ctypes/" "csv.py" "crypt.py" "cProfile.py" "copyreg.py" "copy.py" "contextlib.py" "configparser.py" "concurrent/" "compileall.py" "colorsys.py" "collections/" "codeop.py" "codecs.py" "code.py" "cmd.py" "chunk.py" "cgitb.py" "cgi.py" "calendar.py" "bz2.py" "bisect.py" "binhex.py" "bdb.py" "base64.py" "asyncore.py" "asyncio/" "asynchat.py" "ast.py" "argparse.py" "antigravity.py" "aifc.py" "abc.py" "_weakrefset.py" "_threading_local.py" "_strptime.py" "_sitebuiltins.py" "_pyio.py" "_osx_support.py" "_markupbase.py" "_dummy_thread.py" "_compat_pickle.py" "_collections_abc.py" "_bootlocale.py" "__phello__.foo.py" "__future__.py" "../" "./")
+
+ ("/Users/elSamu/Desktop/Python-3.4.3_SAUCE/" (21741 45492 0 0) "Tools/" "setup.py" "README" "Python/" "pyconfig.h.in" "PCbuild/" "PC/" "Parser/" "Objects/" "Modules/" "Misc/" "Makefile.pre.in" "Mac/" "LICENSE" "Lib/" "install-sh" "Include/" "Grammar/" "Doc/" "configure.ac" "configure" "config.sub" "config.guess" "../" "./")
+
+ ("/Users/elSamu/Documents/Notes/FIT1031/lecture_notes_3/" (22063 25483 0 0) "LN03-Logic_pdf__page_30_of_68_.png" "../" "./")
+
+ ("/Users/elSamu/Documents/Notes/" (22062 58251 0 0) "FIT1031/" "../" "./")
+
+ ("/Users/elSamu/Desktop/PHS2022/" (22061 38870 0 0) "Syllabus_-_Syllabus_pdf.png" "Practice Questions/" "Practice Exams/" "Physics letter.docx" "PHS2022OpticsNotes.pdf" "PHS2022OpticsExam2014_Equations.pdf" "Lecture Notes/" "EM2 Write UP/" "Assignments/" ".DS_Store" "../" "./")
+
+ ("/Users/elSamu/Desktop/FIT2014/Assignments/asgn4/problem3/" (22039 41333 0 0) "turingMachinery" "add2.pl" ".DS_Store" "../" "./")
+
+ ("/Users/elSamu/Desktop/FIT2014/Assignments/" (22039 41064 0 0) "new.tex" "new.log" "new.aux" "bonus.tex" "bonus.log" "bonus.aux" "asgn4.pdf" "asgn4/" "asgn3.pdf" "asgn3/" "asgn2.pdf" "asgn2/" "asgn1.pdf" "asgn1/" ".DS_Store" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
