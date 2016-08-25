@@ -11,9 +11,6 @@
  ;; If there is more than one, they won't work right.
  '(ansi-color-faces-vector
    [default default default italic underline success warning error])
- '(ansi-color-names-vector
-   ["black" "#d55e00" "#009e73" "#f8ec59" "#0072b2" "#cc79a7" "#56b4e9" "white"])
- '(compilation-message-face (quote default))
  '(css-indent-offset 2)
  '(custom-safe-themes
    (quote
@@ -22,50 +19,15 @@
    (quote
     ("-dNOSAFER" "-dNOPAUSE" "-sDEVICE=png16m" "-dTextAlphaBits=4" "-dBATCH" "-dGraphicsAlphaBits=4" "-dQUIET")))
  '(doc-view-ghostscript-program "\"/usr/local/bin/gs\"")
- '(fci-rule-color "#2e2e2e")
- '(highlight-changes-colors (quote ("#FD5FF0" "#AE81FF")))
- '(highlight-tail-colors
-   (quote
-    (("#49483E" . 0)
-     ("#67930F" . 20)
-     ("#349B8D" . 30)
-     ("#21889B" . 50)
-     ("#968B26" . 60)
-     ("#A45E0A" . 70)
-     ("#A41F99" . 85)
-     ("#49483E" . 100))))
+ '(js-indent-level 2)
  '(js2-basic-offset 2)
- '(magit-diff-use-overlays nil)
+ '(json-reformat:indent-width 2)
  '(package-archives
    (quote
     (("melpa" . "http://melpa.org/packages/")
      ("gnu" . "http://elpa.gnu.org/packages/"))))
  '(python-check-command "pyflakes")
- '(vc-annotate-background "#3b3b3b")
- '(vc-annotate-color-map
-   (quote
-    ((20 . "#dd5542")
-     (40 . "#CC5542")
-     (60 . "#fb8512")
-     (80 . "#baba36")
-     (100 . "#bdbc61")
-     (120 . "#7d7c61")
-     (140 . "#6abd50")
-     (160 . "#6aaf50")
-     (180 . "#6aa350")
-     (200 . "#6a9550")
-     (220 . "#6a8550")
-     (240 . "#6a7550")
-     (260 . "#9b55c3")
-     (280 . "#6CA0A3")
-     (300 . "#528fd1")
-     (320 . "#5180b3")
-     (340 . "#6380b3")
-     (360 . "#DC8CC3"))))
- '(vc-annotate-very-old-color "#DC8CC3")
- '(web-mode-markup-indent-offset 2)
- '(weechat-color-list
-   (unspecified "#272822" "#49483E" "#A20C41" "#F92672" "#67930F" "#A6E22E" "#968B26" "#E6DB74" "#21889B" "#66D9EF" "#A41F99" "#FD5FF0" "#349B8D" "#A1EFE4" "#F8F8F2" "#F8F8F0")))
+ '(web-mode-markup-indent-offset 2))
 
 (package-initialize)
 ;(elpy-enable)
@@ -332,6 +294,10 @@
 
 ;;; smooth-scrolling
 (use-package smooth-scrolling
+  :ensure t)
+
+;;; dumb-jump
+(use-package dumb-jump
   :ensure t)
 
 ;;; god-mode
