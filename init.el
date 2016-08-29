@@ -130,6 +130,7 @@
 
 ;;; smartparens
 (use-package smartparens
+  :config (add-hook 'prog-mode-hook #'smartparens-mode)
   :ensure t)
 
 ;;; Scala
@@ -162,12 +163,12 @@
 (use-package docker
   :ensure t)
 
-;;; angular-js
-(use-package angular-mode
+;;; dockerfile-mode
+(use-package dockerfile-mode
   :ensure t)
 
-;;; angular-snippets
-(use-package angular-snippets
+;;; angular-js
+(use-package angular-mode
   :ensure t)
 
 ;;; json-mode
