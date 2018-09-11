@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name: review-outline
+# key: r
+# --
+Title: $1 \\\\
+Authors: $2
+
+Start: $3\\\\
+End:
+
+#+FILETAGS: :$4:
+
+$0

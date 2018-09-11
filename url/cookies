@@ -2,18 +2,21 @@
 ;; Automatically generated file!!! DO NOT EDIT!!!
 
 (setq url-cookie-storage
- '((".youtube.com"
-  [url-cookie "VISITOR_INFO1_LIVE" "V2iOeEhGzkQ" "15-Oct-2016 22:12:17.00 GMT" "/" ".youtube.com" nil]
-  [url-cookie "PREF" "f1=40000000" "15-Oct-2016 22:12:18.00 GMT" "/" ".youtube.com" nil])
+ '(("au.mathworks.com"
+  [url-cookie "X_MW_DOMAIN" "au.mathworks.com" "22-Mar-2084 05:25:58.00 GMT" "/" "au.mathworks.com" nil])
  ("www.mathworks.com"
   [url-cookie "X_MW_DOMAIN" "au.mathworks.com" "22-Mar-2084 05:25:58.00 GMT" "/" "www.mathworks.com" nil])
- ("au.mathworks.com"
-  [url-cookie "X_MW_DOMAIN" "au.mathworks.com" "22-Mar-2084 05:25:58.00 GMT" "/" "au.mathworks.com" nil]))
+ (".google.com.au"
+  [url-cookie "NID" "85=TVZjbjjWTF54oxfS7HuzLZOTJVgPDzw29ZGHA8onfOURpbB0bwIFwsFACB0W5YJfugB5fkBudBLQpB6EfI_uHymMbPPOBFnihgTdDq2CjMyh31heoBvNDvah7XkHyTU7" "04-Mar-2017 01:06:01.00 GMT" "/" ".google.com.au" nil]
+  [url-cookie "HttpOnly" nil "04-Mar-2017 01:06:01.00 GMT" "/" ".google.com.au" nil])
+ (".youtube.com"
+  [url-cookie "PREF" "f1=40000000" "15-Oct-2016 22:12:18.00 GMT" "/" ".youtube.com" nil]
+  [url-cookie "VISITOR_INFO1_LIVE" "V2iOeEhGzkQ" "15-Oct-2016 22:12:17.00 GMT" "/" ".youtube.com" nil]))
 )
 (setq url-cookie-secure-storage
  '((".github.com"
-  [url-cookie "logged_in" "no" "Sun, 30 Mar 2036 04:22:01 -0000" "/" ".github.com" t]
-  [url-cookie "HttpOnly" nil "Sun, 30 Mar 2036 04:22:01 -0000" "/" ".github.com" t]))
+  [url-cookie "HttpOnly" nil "Sun, 30 Mar 2036 04:22:01 -0000" "/" ".github.com" t]
+  [url-cookie "logged_in" "no" "Sun, 30 Mar 2036 04:22:01 -0000" "/" ".github.com" t]))
 )
 
 ;; Local Variables:
